@@ -39,6 +39,19 @@
 [2]:https://account.bilibili.com/account/home "网站222"
 
 ![01.jpg](https://i.loli.net/2021/11/25/fgJ2iUchpOMKvru.jpg)
+
 爱上飞机喀什附件
+
 饭卡就是房价
+
 啊开发商的
+
+c语言代码段
+···c
+#include<stdio.h>
+int main()
+{
+printf("hello markdown");
+return;
+}
+···
