@@ -36,6 +36,8 @@
 
 这里是一个网站[网站1][1]
 这里又是一个网站[网站2][2]
-
 [1]:https://space.bilibili.com/396536859 "网站1111"
 [2]:https://account.bilibili.com/account/home "网站222"
+插入图片[涩图][1]
+![1]:https://i.loli.net/2021/11/25/fgJ2iUchpOMKvru.jpg
+![01.jpg](https://i.loli.net/2021/11/25/fgJ2iUchpOMKvru.jpg)
