@@ -48,11 +48,11 @@
 
 c语言代码段
 
-··· c
+```c
 #include<stdio.h>
 int main()
 {
 printf("hello markdown");
 return;
 }
-···
+```
